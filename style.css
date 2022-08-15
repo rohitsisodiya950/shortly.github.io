@@ -124,7 +124,7 @@ nav li a:hover{
 
 
 .hero-background {
-    background-image: url(/images/illustration-working.svg);
+    background-image: url(/shortly.github.io/illustration-working.svg);
     background-position: right;
     background-repeat: no-repeat;
 
@@ -172,7 +172,7 @@ nav li a:hover{
     z-index: 10;
     top: -80px;
     position: relative;
-    background-image: url(/images/bg-shorten-desktop.svg);
+    background-image: url(/shortly.github.io/bg-shorten-desktop.svg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -229,7 +229,7 @@ nav li a:hover{
     display: flex;
     padding: 150px 0px 150px 0px;
     justify-content: space-between;
-    background-image: url(/images/New%20Project.png);
+    background-image: url(/shortly.github.io/New%20Project.png);
     background-size: contain;
     background-position: 50% 60%;
     background-repeat: no-repeat;
@@ -284,7 +284,7 @@ nav li a:hover{
 
 .blue-texture{
 
-    background-image: url(/images/bg-boost-desktop.svg);
+    background-image: url(/shortly.github.io/bg-boost-desktop.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #3B3054;
