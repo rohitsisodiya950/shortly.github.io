@@ -479,7 +479,7 @@ footer{
 
 
     .hero-background {
-        background-image: url(/images/illustration-working.svg);
+        background-image: url(/shortly.github.io/illustration-working.svg);
         background-position: top;
         background-repeat: no-repeat;
         background-size: contain;
@@ -594,7 +594,7 @@ footer{
         padding: 50px 0px 0px 0px;
         flex-direction: column;
         justify-content: space-between;
-        background-image: url(/images/mobile-border.png);
+        background-image: url(/shortly.github.io/mobile-border.png);
         background-size: contain;
         background-position: 50% 200px;
         background-repeat: no-repeat;
@@ -659,7 +659,7 @@ footer{
 
     .blue-texture {
 
-        background-image: url(/images/bg-boost-desktop.svg);
+        background-image: url(/shortly.github.io/bg-boost-desktop.svg);
         background-size: cover;
         background-repeat: no-repeat;
         background-color: #3B3054;
