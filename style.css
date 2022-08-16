@@ -70,7 +70,12 @@ header {
 .navigation li {
     list-style: none;
     padding: 02px 15px;
+    
+    .mobile-login{
+        display: none;
+    }
 
+    
 }
 
 .navigation li a {
@@ -807,5 +812,9 @@ footer{
     
     
         }
+    
+    .mobile-login{
+        display: none;
+    }
 
 }
