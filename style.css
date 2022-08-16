@@ -376,7 +376,7 @@ footer{
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding: 20px 20px;
+        padding: 20px 0px;
 
 
     }
@@ -384,6 +384,7 @@ footer{
 
     .logo {
         width: 100%;
+        padding: 20px;
     }
 
     .logo img {
